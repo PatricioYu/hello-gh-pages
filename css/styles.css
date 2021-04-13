@@ -46,5 +46,5 @@ h1, p {
     -webkit-box-shadow: inset 0px 0px 5px #451c78;
        -moz-box-shadow: inset 0px 0px 5px #451c78;
             box-shadow: inset 0px 0px 5px #451c78;
-     outline: none;
+     outline: none; 
   }
